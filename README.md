@@ -81,7 +81,7 @@ import makeWASocket from 'baileys'
         - [Contact Message](#contact-message)
         - [Reaction Message](#reaction-message)
         - [Pin Message](#pin-message)
-        - [Poll Message](#poll-message)
+        - [Button](#button)
     - [Sending with Link Preview](#sending-messages-with-link-previews)
     - [Media Messages](#media-messages)
         - [Gif Message](#gif-message)
@@ -549,7 +549,7 @@ await sock.sendMessage(
 )
 ```
 
-#### Poll Message
+#### button
 
 ### Buttons Message
 ```ts
