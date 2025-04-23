@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "baileys-pro",
   "version": "8.5.12",
   "description": "WhatsApp API",
   "keywords": [
@@ -15,9 +15,9 @@
     "whatsapp-group",
     "multi-device"
   ],
-  "homepage": "https://github.com/Whiskeysockets/Baileys",
+  "homepage": "https://github.com/Akshay-Eypz/Baileys",
   "repository": {
-    "url": ""
+    "url": "https://github.com/Akshay-Eypz/Baileys"
   },
   "license": "MIT",
   "author": "Akshay-Eypz",
@@ -111,6 +111,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/FizzxyDev/Baileys/issues"
+    "url": "https://github.com/Akshay-Eypz/Baileys/issues"
   }
 }
